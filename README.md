@@ -1,7 +1,7 @@
 # React Assessment Backend
 
-This is the Rails backend you should use to supply your React front-end
-application with data.
+This is the Rails backend you should use to supply your [React front-end
+application](https://github.com/learn-co-curriculum/immersive-assessment-react-frontend) with data.
 
 ## Setup
 
